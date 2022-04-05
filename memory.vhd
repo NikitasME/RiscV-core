@@ -4,6 +4,7 @@
 -- Module Name:    memory - Behavioral 
 -- Description: The memory module. Has a dual-port design for simultaneous read and write. Only 128 bytes are implemented, but can be extended easily.
 -- Revision: 1.0
+-- License: GPL v3.0
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
