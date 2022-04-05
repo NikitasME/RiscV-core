@@ -4,6 +4,7 @@
 -- Module Name:    registers - Behavioral  
 -- Description: The register file consists of 32 32-bit general purpose registers.
 -- Revision: 1.0
+-- License: GPL v3.0
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
