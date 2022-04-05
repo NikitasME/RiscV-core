@@ -4,6 +4,7 @@
 -- Module Name:    decoder - Behavioral 
 -- Description: The risc-v decoder. Supports some instructions that haven't been implemented in the ALU yet.
 -- Revision: 1.0
+-- License: GPL v3.0
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
