@@ -4,6 +4,7 @@
 -- Module Name:    alu - Behavioral 
 -- Description: The Arithmetic and Logic Unit of the core. Supports the RV32I instruction set.
 -- Revision: 1.0
+-- License: GPL v3.0
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
