@@ -4,6 +4,7 @@
 -- Module Name:    core - Structural 
 -- Description: The top module that describes the structural architechture of the design.
 -- Revision: 1.0
+-- License: GPL v3.0
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
